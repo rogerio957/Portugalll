@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: SIC 1080
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224049
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: SIC International
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224051
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: NOS Studios
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223994
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: RTP Madeira
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224047
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Fox
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Food Network
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TLC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: E! Entertainment
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224006
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Fashion TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224008
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: BBC Entertainment
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Dog TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Toros TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224058
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Dizi Channel
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Porto Canal
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224042
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Localvisao
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Bloomberg
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223988
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Kuriakos
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160038
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: AR TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223983
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: 11 TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Now
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: RTP Africa
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Fox News
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224010
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: CNBC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Record News
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224043
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Alma Lusa
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Clubbing TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: MCM Pop
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224027
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: MTV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: MTV 00's
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: MTV Portugal
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224031
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Trace Toca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224059
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Trace Urban
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224060
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Zap Viva
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224077
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: SIC Kids
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Baby TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159995
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Disney+
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Nick Jr
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Panda Biggs
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Panda Kids
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224040
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Kuriakos Kids TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224021
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Gametoon
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Lolly Kids
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224025
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Jim Jam
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TVCine +
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Hollywood
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TVI Ficcao
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Globo
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224013
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Globo Premium
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224015
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Blaze
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Cacavision
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Odisseia
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160046
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Caca E Pesca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Campo Pequeno TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223990
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Historia
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224017
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Canal Histia
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Ca Amp Pesca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223995
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Caca e Pesca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223996
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Cavision
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Outdoor
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224038
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Travel Channel
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TravelXP
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224062
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TV Record
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Canal Q
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160006
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: CBS Reality
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223998
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TVI Reality
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224066
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TVI Reality Mosaico
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224071
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TVI Reality Cam 1
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224067
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: TVI Reality Cam 2
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224068
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: A Bola
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159993
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Canal Moto GP
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223993
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Benfica TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159998
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: RTP Arena
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Ginx
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: BTV HD
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224091
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: PFC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224041
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: M Chic
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Canal 11
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: NBA
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224033
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: UFC Fight Pass
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Fight Network
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224009
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: NFL Network
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224034
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: CMTV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/238126
+
